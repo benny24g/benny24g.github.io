@@ -1,7 +1,7 @@
 # Benny24g
 
 <style>
-h1{
+h1 {
     font-size: 50px;
 }
 </style>
