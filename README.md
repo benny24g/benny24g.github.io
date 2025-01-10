@@ -1,5 +1,11 @@
 # Benny24g
 
+<style>
+h1{
+    font-size: 50px;
+}
+</style>
+
 Detta är ett repo för Benny24g
 
 ## Lite info
